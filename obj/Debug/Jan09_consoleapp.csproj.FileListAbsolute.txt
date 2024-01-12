@@ -1,0 +1,7 @@
+D:\TechMahindra\msnet\Jan09_consoleapp\Jan09_consoleapp\bin\Debug\Jan09_consoleapp.exe.config
+D:\TechMahindra\msnet\Jan09_consoleapp\Jan09_consoleapp\bin\Debug\Jan09_consoleapp.exe
+D:\TechMahindra\msnet\Jan09_consoleapp\Jan09_consoleapp\bin\Debug\Jan09_consoleapp.pdb
+D:\TechMahindra\msnet\Jan09_consoleapp\Jan09_consoleapp\obj\Debug\Jan09_consoleapp.csproj.AssemblyReference.cache
+D:\TechMahindra\msnet\Jan09_consoleapp\Jan09_consoleapp\obj\Debug\Jan09_consoleapp.csproj.CoreCompileInputs.cache
+D:\TechMahindra\msnet\Jan09_consoleapp\Jan09_consoleapp\obj\Debug\Jan09_consoleapp.exe
+D:\TechMahindra\msnet\Jan09_consoleapp\Jan09_consoleapp\obj\Debug\Jan09_consoleapp.pdb
